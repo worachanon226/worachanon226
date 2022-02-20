@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm PuNe</h1>
-<h3 align="center">A student in the Faculty of Computer Engineering at the undergraduate level.</h3>
+<h1 align="left">Hi 👋, I'm PuNe</h1>
+<h3 align="left">A student in the Faculty of Computer Engineering at the undergraduate level.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
