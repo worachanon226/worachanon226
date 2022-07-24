@@ -11,6 +11,3 @@ A student in the Faculty of Computer Engineering at the undergraduate level.
 ![](https://github-readme-stats.vercel.app/api?username=worachanon226&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=worachanon226&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=worachanon226&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
